@@ -24,4 +24,4 @@ This project was engineered to provide a professional overview of my work as a C
 4.  **Contact:** Direct links to my LinkedIn and GitHub profiles.
 
 ---
-*Developed by Simran Singh | [Live Demo](INSERT_YOUR_LINK_HERE)*
+*Developed by Simran Singh | [Live Demo](https://simransingh7396-dev.github.io/Portfolio/)*
